@@ -4,5 +4,5 @@ Consist of 3 Rounds and 2 Players
 
 One With Maximum win:
 wins the series
-if draw occurs the it will print draw
+if draw occurs then it will print draw
 
